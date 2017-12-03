@@ -1,0 +1,5 @@
+12:20:15.074 [info]  AsyncAppender.LoggerThread - AsyncAppenderR
+12:20:15.084 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+12:20:16.090 [info]  AsyncAppender background thread paused, flushing events left in queue
+12:20:16.079 [info]  AsyncAppender.close
+12:20:16.090 [info]  AsyncAppender flushed

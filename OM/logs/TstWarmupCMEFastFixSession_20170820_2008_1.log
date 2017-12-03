@@ -1,0 +1,20 @@
+/6:08:28.887 [info]  AsyncAppender.LoggerThread - AsyncAppenderR
+/6:08:28.900 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:28.908 [info]  WarmupCMENonBlockFastFixSession WARMUP PARAMS : numOrder=3000, delayMS=100, warmClientHost=224.0.0.250, warmClientPort=30001, warmExchangeHost=127.0.0.1, warmExchagePort=14011
+/6:08:28.910 [info]  AbstractControlThread: created DualElementControlThread id=WarmupMultiSessControlThread
+/6:08:28.915 [info]  DualElementControlThread : registered MultiSessReceiver with WarmupMultiSessControlThread
+/6:08:28.918 [info]  DualElementControlThread : registered MultiSessDispatcher with WarmupMultiSessControlThread
+/6:08:29.503 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.506 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.506 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.507 [info]  Initialising decoder to UTC date 20170820-
+/6:08:29.522 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+/6:08:29.522 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.522 [info]  Initialising decoder to UTC date 20170820-
+/6:08:29.528 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+/6:08:29.567 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.569 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+/6:08:29.599 [info]  Session WARM_OM2HUB, reads=0, writes=0, delayedWrites=0
+/6:08:30.607 [info]  AsyncAppender background thread paused, flushing events left in queue
+/6:08:30.602 [info]  AsyncAppender.close
+/6:08:30.607 [info]  AsyncAppender flushed

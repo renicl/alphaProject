@@ -1,0 +1,2703 @@
+11:12:30.098 [info]  AsyncAppender.LoggerThread - WarmupAsyncLogger
+11:12:30.097 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.097 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.098 [ERROR] [WRM999] Dummy Error message
+11:12:30.109 [info]  AsyncAppender background thread paused, flushing events left in queue
+11:12:30.098 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.098 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.098 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.098 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.098 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.098 [ERROR] [WRM999] Dummy Error message
+11:12:30.098 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.098 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.098 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.098 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.098 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.099 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.099 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.099 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.099 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.099 [ERROR] [WRM999] Dummy Error message
+11:12:30.100 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.100 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.100 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.100 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.100 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.100 [ERROR] [WRM999] Dummy Error message
+11:12:30.100 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.100 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.100 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.100 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.100 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.100 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.101 [ERROR] [WRM999] Dummy Error message
+11:12:30.101 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.101 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.101 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.101 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.103 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.103 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.103 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.103 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.103 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.103 [ERROR] [WRM999] Dummy Error message
+11:12:30.103 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.103 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.104 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.104 [ERROR] [WRM999] Dummy Error message
+11:12:30.104 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.104 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.105 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.105 [ERROR] [WRM999] Dummy Error message
+11:12:30.105 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.105 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.106 [ERROR] [WRM999] Dummy Error message
+11:12:30.106 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.106 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.106 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.106 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.107 [ERROR] [WRM999] Dummy Error message
+11:12:30.107 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.107 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.107 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.107 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [info]  abcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz
+11:12:30.108 [info]  
+abcdefghijklmno
+0000 pqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefghijk
+0050 lmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyzabcdefg
+0100 hijklmnopqrstiuvwxyzabcdefghijklmnopqrstiuvwxyz   
+0150                                                   
+     1        10        20        30        40        50
+
+11:12:30.108 [ERROR] [WRM999] Dummy Error message
+11:12:30.108 [ERROR] [WRM999] Dummy Error message 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr
+11:12:30.108 [ERROR] [WRM999] Dummy DummyErr 
+DummyEx
+      at com.rr.om.warmup.units.WarmupLogger.warmFileAppender(WarmupLogger.java:105)
+      at com.rr.om.warmup.units.WarmupLogger.warmup(WarmupLogger.java:51)
+      at com.rr.core.warmup.WarmupRegistry.warmAll(WarmupRegistry.java:53)
+      at com.rr.om.main.BaseSMTMain.warmup(BaseSMTMain.java:351)
+      at com.rr.om.main.SMTMain.main(SMTMain.java:92)
+
+11:12:30.113 [info]  AsyncAppender flushed

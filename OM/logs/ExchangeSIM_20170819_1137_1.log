@@ -1,0 +1,1046 @@
+11:37:49.483 [info]  AsyncAppender.LoggerThread - AsyncAppenderR
+11:37:49.499 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:49.559 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_L_DateRoll, isEventScheduled=false
+11:37:49.566 [info]  Exchange Registered :
+[REC=L, MIC=XLON, usePrimaryRIC=N, isMTF=N, timezone=Greenwich Mean Time, isHalfDay=NN, execIdGen=N
+    enricher=LSEEnricher, validator=LSEMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=N, sendEODCancel=N, expireSendTime=18:59:58.
+    exchangeSession=[MultiMarketSession defaultSess { id=default, isHalfDay=N, openTime=/5:30:00., startCont=/5:40:00., endCont=18:29:30., closeTime=18:59:00.
+        openAuction=(Auction Open, start=/5:30:00., end=/5:40:00.)
+        closeAuction=(Auction Close, start=18:29:30., end=18:59:00.)}
+      segment sessions
+        segmentSession { id=iobSegment, isHalfDay=N, openTime=/5:30:00., startCont=/5:55:00., endCont=17:29:30., closeTime=18:59:00.
+        openAuction=(Auction Open, start=/5:40:00., end=/5:55:00.)
+        closeAuction=(Auction Close, start=17:29:30., end=18:59:00.)}
+    segmentToSessionIDMap
+        segment ITBB to iobSegment
+        segment IOBE to iobSegment
+        segment IOBU to iobSegment
+        segment ITBU to iobSegment
+        segment IOB to iobSegment
+]
+11:37:49.569 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_d_DateRoll, isEventScheduled=false
+11:37:49.569 [info]  Exchange Registered :
+[REC=d, MIC=XEUR, usePrimaryRIC=N, isMTF=N, timezone=Central European Time, isHalfDay=NN, execIdGen=Y
+    enricher=ETIEnricher, validator=ETIMessageValidatorHFT
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=Y, sendEODCancel=N, expireSendTime=13:00:00.
+    exchangeSession=[MultiMarketSession defaultSess { id=default, isHalfDay=N, openTime=/4:30:00., startCont=/5:00:00., endCont=17:49:00., closeTime=17:59:00.
+        openAuction=(Auction Open, start=/4:30:00., end=/5:00:00.)
+        closeAuction=(Auction Close, start=17:49:00., end=17:59:00.)}
+      segment sessions
+
+    segmentToSessionIDMap
+]
+11:37:49.572 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_2_DateRoll, isEventScheduled=false
+11:37:49.572 [info]  Exchange Registered :
+[REC=2, MIC=XCME, usePrimaryRIC=N, isMTF=N, timezone=Central Standard Time, isHalfDay=NN, execIdGen=Y
+    enricher=CMEEnricher, validator=CMEMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=Y, sendEODCancel=N, expireSendTime=24:59:58.
+    exchangeSession=[ id=default, isHalfDay=N, openTime=01:30:00., startCont=01:30:00., endCont=24:59:00., closeTime=24:59:00.
+        openAuction=(Auction Null, start=N/A, end=N/A)
+        closeAuction=(Auction Null, start=N/A, end=N/A)]
+11:37:49.574 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_BO_DateRoll, isEventScheduled=false
+11:37:49.574 [info]  Exchange Registered :
+[REC=BO, MIC=XBOM, usePrimaryRIC=N, isMTF=N, timezone=India Standard Time, isHalfDay=NN, execIdGen=Y
+    enricher=BSEEnricher, validator=BSEMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=Y, sendEODCancel=N, expireSendTime=14:29:58.
+    exchangeSession=[ id=default, isHalfDay=N, openTime=/1:00:00., startCont=/1:00:00., endCont=14:29:00., closeTime=14:29:00.
+        openAuction=(Auction Null, start=N/A, end=N/A)
+        closeAuction=(Auction Null, start=N/A, end=N/A)]
+11:37:49.577 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_CHI_DateRoll, isEventScheduled=false
+11:37:49.577 [info]  Exchange Registered :
+[REC=CHI, MIC=XCHI, usePrimaryRIC=N, isMTF=Y, timezone=Greenwich Mean Time, isHalfDay=NN, execIdGen=N
+    enricher=CHIXEnricher, validator=CHIXMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=N, sendEODCancel=N, expireSendTime=18:59:58.
+    exchangeSession=[ id=default, isHalfDay=N, openTime=/5:30:00., startCont=/5:30:00., endCont=18:59:00., closeTime=18:59:00.
+        openAuction=(Auction Null, start=N/A, end=N/A)
+        closeAuction=(Auction Null, start=N/A, end=N/A)]
+11:37:49.580 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_BS_DateRoll, isEventScheduled=false
+11:37:49.580 [info]  Exchange Registered :
+[REC=BS, MIC=BATE, usePrimaryRIC=N, isMTF=Y, timezone=Greenwich Mean Time, isHalfDay=NN, execIdGen=N
+    enricher=BATSEnricher, validator=BATSMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=N, sendEODCancel=N, expireSendTime=18:59:58.
+    exchangeSession=[ id=default, isHalfDay=N, openTime=/5:30:00., startCont=/5:30:00., endCont=18:59:00., closeTime=18:59:00.
+        openAuction=(Auction Null, start=N/A, end=N/A)
+        closeAuction=(Auction Null, start=N/A, end=N/A)]
+11:37:49.582 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener Exchange_ENP_DateRoll, isEventScheduled=false
+11:37:49.583 [info]  Exchange Registered :
+[REC=ENP, MIC=XPAR, usePrimaryRIC=N, isMTF=N, timezone=Central European Time, isHalfDay=NN, execIdGen=Y
+    enricher=ENXEnricher, validator=ENXMessageValidator
+    mktOrderSup=Y, mocSup=Y, tradeCorrSupp=Y, sendEODCancel=N, expireSendTime=11:00:00.
+    exchangeSession=[MultiMarketSession defaultSess { id=default, isHalfDay=N, openTime=/5:30:00., startCont=/6:00:00., endCont=17:49:00., closeTime=17:59:00.
+        openAuction=(Auction Open, start=/5:30:00., end=/6:00:00.)
+        closeAuction=(Auction Close, start=17:49:00., end=17:59:00.)}
+      segment sessions
+
+    segmentToSessionIDMap
+]
+11:37:49.584 [info]  AdminAgent starting JMX html port 8300
+11:37:49.667 [info]  Client DefaultClient totOrdValue UNLIMITED
+11:37:50.237 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.237 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.247 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.248 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.258 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.258 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.258 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.258 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.258 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.259 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.259 [info]  Setting decoder com.rr.model.generated.fix.codec.CMEDecoder to UTC date 20170819-
+11:37:50.259 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.259 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.265 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.265 [info]  Setting decoder com.rr.model.generated.fix.codec.RecoveryCMEDecoder to UTC date 20170819-
+11:37:50.291 [info]  SessionManager.add() UPSTREAM FixSocketSession id=exchange1  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=10508, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=CME, targetCompId=1T1234N, fixVersion=Fix4_2, disconnectOnMissedHB=true, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_exchange1DISPATCHER, queue=RingBufferMsgQueue1C1P), logEvents=true, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:50.337 [info]  Warmup Starting
+11:37:50.337 [info]  Warmup (A) Codecs
+11:37:50.339 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.340 [info]  Warmup (A) Codecs total 0 secs
+11:37:50.340 [info]  Warmup (A) Recycling
+11:37:50.341 [info]  Warmup (A) Recycling total 0 secs
+11:37:50.341 [info]  Warmup (A) LoggerAndFileAppender
+11:37:50.353 [info]  Warmup (A) LoggerAndFileAppender total 0 secs
+11:37:50.353 [info]  Warmup (A) Routers
+11:37:50.360 [info]  Warmup (A) Routers total 0 secs
+11:37:50.360 [info]  Warmup (A) JavaSpecific
+11:37:50.364 [info]  Warmup (A) JavaSpecific total 0 secs
+11:37:50.364 [info]  Warmup (A) HeartbeatCME
+11:37:50.370 [info]  Warmup (A) HeartbeatCME total 0 secs
+11:37:50.370 [info]  Warmup (A) FixSocketSessionCME
+11:37:50.371 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.371 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.372 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.373 [info]  Client TestClient totOrdValue thresholds low=Infinity (60), med=Infinity (80), high=Infinity (90), max=1.7976931348623157E308
+11:37:50.373 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.373 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.374 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.374 [info]  Setting decoder com.rr.model.generated.fix.codec.Standard44Decoder to UTC date 20170819-
+11:37:50.374 [info]  Client TestClient totOrdValue thresholds low=Infinity (60), med=Infinity (80), high=Infinity (90), max=1.7976931348623157E308
+11:37:50.374 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.374 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.375 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.375 [info]  Setting decoder com.rr.model.generated.fix.codec.RecoveryStandard44Decoder to UTC date 20170819-
+11:37:50.381 [info]  WarmupFixSocketSession WARMUP PARAMS : numOrder=100, delayMS=100, warmClientHost=127.0.0.1, warmClientPort=14201, warmExchangeHost=127.0.0.1, warmExchagePort=14211
+11:37:50.385 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.385 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.385 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.385 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.386 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.386 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.386 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.386 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.400 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.400 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.407 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.407 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.407 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.407 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.408 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.408 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.408 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.408 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.411 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_IN, filePreSize=1048576, pageSize=4096
+11:37:50.415 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_CLIENTSIM_CLTSIM_INDateRoll, isEventScheduled=false
+11:37:50.415 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.416 [info]  MemMapPersister IDX_WARM_CLIENTSIM_CLTSIM_IN, filePreSize=1048576, pageSize=2097152
+11:37:50.416 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_CLIENTSIM_CLTSIM_INDateRoll, isEventScheduled=false
+11:37:50.416 [info]  IndexMMPersister IDX_WARM_CLIENTSIM_CLTSIM_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.416 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_OUT, filePreSize=1048576, pageSize=4096
+11:37:50.417 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_CLIENTSIM_CLTSIM_OUTDateRoll, isEventScheduled=false
+11:37:50.417 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.417 [info]  MemMapPersister IDX_WARM_CLIENTSIM_CLTSIM_OUT, filePreSize=1048576, pageSize=2097152
+11:37:50.417 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_CLIENTSIM_CLTSIM_OUTDateRoll, isEventScheduled=false
+11:37:50.417 [info]  IndexMMPersister IDX_WARM_CLIENTSIM_CLTSIM_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.418 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat
+11:37:50.423 [info]  Map for page 0, mapper=WARM_CLIENTSIM_CLTSIM_IN, size=4096 : 1614 usec
+11:37:50.423 [Warn]  MemMapPageMgr SYNC getPage delay us=25 page=0 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:50.423 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=0
+11:37:50.423 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx
+11:37:50.424 [info]  Map for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_IN, size=2097152 : 515 usec
+11:37:50.424 [Warn]  MemMapPageMgr SYNC getPage delay us=11 page=0 name=IDX_WARM_CLIENTSIM_CLTSIM_IN
+11:37:50.424 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:50.424 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat
+11:37:50.425 [info]  Map for page 0, mapper=WARM_CLIENTSIM_CLTSIM_OUT, size=4096 : 25 usec
+11:37:50.425 [info]  MemMapPageMgr SYNC getPage delay us=8 page=0 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:50.425 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=0
+11:37:50.425 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx
+11:37:50.425 [info]  Map for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_OUT, size=2097152 : 44 usec
+11:37:50.425 [info]  MemMapPageMgr SYNC getPage delay us=6 page=0 name=IDX_WARM_CLIENTSIM_CLTSIM_OUT
+11:37:50.425 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:50.425 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.425 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.426 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.426 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.426 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.426 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.426 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.426 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.426 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_IN, filePreSize=1048576, pageSize=4096
+11:37:50.426 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM_2_SRV_EXC1_INDateRoll, isEventScheduled=false
+11:37:50.426 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.426 [info]  MemMapPersister IDX_WARM_OM_2_SRV_EXC1_IN, filePreSize=1048576, pageSize=2097152
+11:37:50.426 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM_2_SRV_EXC1_INDateRoll, isEventScheduled=false
+11:37:50.426 [info]  IndexMMPersister IDX_WARM_OM_2_SRV_EXC1_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.426 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_OUT, filePreSize=1048576, pageSize=4096
+11:37:50.426 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM_2_SRV_EXC1_OUTDateRoll, isEventScheduled=false
+11:37:50.426 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.426 [info]  MemMapPersister IDX_WARM_OM_2_SRV_EXC1_OUT, filePreSize=1048576, pageSize=2097152
+11:37:50.426 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM_2_SRV_EXC1_OUTDateRoll, isEventScheduled=false
+11:37:50.426 [info]  IndexMMPersister IDX_WARM_OM_2_SRV_EXC1_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.428 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat
+11:37:50.428 [info]  Map for page 0, mapper=WARM_OM_2_SRV_EXC1_IN, size=4096 : 42 usec
+11:37:50.428 [info]  MemMapPageMgr SYNC getPage delay us=10 page=0 name=WARM_OM_2_SRV_EXC1_IN
+11:37:50.428 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=0
+11:37:50.428 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx
+11:37:50.429 [info]  Map for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_IN, size=2097152 : 29 usec
+11:37:50.429 [info]  MemMapPageMgr SYNC getPage delay us=7 page=0 name=IDX_WARM_OM_2_SRV_EXC1_IN
+11:37:50.429 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:50.429 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat
+11:37:50.429 [info]  Map for page 0, mapper=WARM_OM_2_SRV_EXC1_OUT, size=4096 : 20 usec
+11:37:50.429 [info]  MemMapPageMgr SYNC getPage delay us=7 page=0 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:50.429 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=0
+11:37:50.429 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx
+11:37:50.429 [info]  Map for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_OUT, size=2097152 : 29 usec
+11:37:50.429 [info]  MemMapPageMgr SYNC getPage delay us=6 page=0 name=IDX_WARM_OM_2_SRV_EXC1_OUT
+11:37:50.429 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:50.430 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.430 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.430 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.430 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.430 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.430 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.430 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.431 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.431 [info]  MemMapPersister WARM_OM2CLT_CLT_IN, filePreSize=1048576, pageSize=4096
+11:37:50.431 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM2CLT_CLT_INDateRoll, isEventScheduled=false
+11:37:50.431 [info]  MemMapPersister WARM_OM2CLT_CLT_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.431 [info]  MemMapPersister IDX_WARM_OM2CLT_CLT_IN, filePreSize=1048576, pageSize=2097152
+11:37:50.431 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM2CLT_CLT_INDateRoll, isEventScheduled=false
+11:37:50.431 [info]  IndexMMPersister IDX_WARM_OM2CLT_CLT_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.431 [info]  MemMapPersister WARM_OM2CLT_CLT_OUT, filePreSize=1048576, pageSize=4096
+11:37:50.431 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM2CLT_CLT_OUTDateRoll, isEventScheduled=false
+11:37:50.431 [info]  MemMapPersister WARM_OM2CLT_CLT_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.431 [info]  MemMapPersister IDX_WARM_OM2CLT_CLT_OUT, filePreSize=1048576, pageSize=2097152
+11:37:50.431 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM2CLT_CLT_OUTDateRoll, isEventScheduled=false
+11:37:50.431 [info]  IndexMMPersister IDX_WARM_OM2CLT_CLT_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.455 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat
+11:37:50.455 [info]  Map for page 0, mapper=WARM_OM2CLT_CLT_IN, size=4096 : 108 usec
+11:37:50.456 [Warn]  MemMapPageMgr SYNC getPage delay us=16 page=0 name=WARM_OM2CLT_CLT_IN
+11:37:50.456 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=0
+11:37:50.456 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx
+11:37:50.456 [info]  Map for page 0, mapper=IDX_WARM_OM2CLT_CLT_IN, size=2097152 : 61 usec
+11:37:50.456 [Warn]  MemMapPageMgr SYNC getPage delay us=12 page=0 name=IDX_WARM_OM2CLT_CLT_IN
+11:37:50.456 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:50.456 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat
+11:37:50.457 [info]  Map for page 0, mapper=WARM_OM2CLT_CLT_OUT, size=4096 : 50 usec
+11:37:50.457 [Warn]  MemMapPageMgr SYNC getPage delay us=13 page=0 name=WARM_OM2CLT_CLT_OUT
+11:37:50.457 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=0
+11:37:50.457 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx
+11:37:50.457 [info]  Map for page 0, mapper=IDX_WARM_OM2CLT_CLT_OUT, size=2097152 : 53 usec
+11:37:50.457 [Warn]  MemMapPageMgr SYNC getPage delay us=11 page=0 name=IDX_WARM_OM2CLT_CLT_OUT
+11:37:50.457 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:50.457 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.458 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.458 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.458 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.458 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.458 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.458 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.458 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.458 [info]  MemMapPersister WARM_EXSIM_EXSIM_IN, filePreSize=1048576, pageSize=4096
+11:37:50.459 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_EXSIM_EXSIM_INDateRoll, isEventScheduled=false
+11:37:50.459 [info]  MemMapPersister WARM_EXSIM_EXSIM_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.459 [info]  MemMapPersister IDX_WARM_EXSIM_EXSIM_IN, filePreSize=1048576, pageSize=2097152
+11:37:50.459 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_EXSIM_EXSIM_INDateRoll, isEventScheduled=false
+11:37:50.459 [info]  IndexMMPersister IDX_WARM_EXSIM_EXSIM_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.459 [info]  MemMapPersister WARM_EXSIM_EXSIM_OUT, filePreSize=1048576, pageSize=4096
+11:37:50.459 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_EXSIM_EXSIM_OUTDateRoll, isEventScheduled=false
+11:37:50.459 [info]  MemMapPersister WARM_EXSIM_EXSIM_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:50.459 [info]  MemMapPersister IDX_WARM_EXSIM_EXSIM_OUT, filePreSize=1048576, pageSize=2097152
+11:37:50.460 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_EXSIM_EXSIM_OUTDateRoll, isEventScheduled=false
+11:37:50.460 [info]  IndexMMPersister IDX_WARM_EXSIM_EXSIM_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:50.463 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat
+11:37:50.464 [info]  Map for page 0, mapper=WARM_EXSIM_EXSIM_IN, size=4096 : 51 usec
+11:37:50.464 [Warn]  MemMapPageMgr SYNC getPage delay us=11 page=0 name=WARM_EXSIM_EXSIM_IN
+11:37:50.464 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=0
+11:37:50.464 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx
+11:37:50.464 [info]  Map for page 0, mapper=IDX_WARM_EXSIM_EXSIM_IN, size=2097152 : 54 usec
+11:37:50.464 [Warn]  MemMapPageMgr SYNC getPage delay us=11 page=0 name=IDX_WARM_EXSIM_EXSIM_IN
+11:37:50.464 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:50.464 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat
+11:37:50.465 [info]  Map for page 0, mapper=WARM_EXSIM_EXSIM_OUT, size=4096 : 40 usec
+11:37:50.465 [Warn]  MemMapPageMgr SYNC getPage delay us=15 page=0 name=WARM_EXSIM_EXSIM_OUT
+11:37:50.465 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=0
+11:37:50.465 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx
+11:37:50.465 [info]  Map for page 0, mapper=IDX_WARM_EXSIM_EXSIM_OUT, size=2097152 : 35 usec
+11:37:50.465 [info]  MemMapPageMgr SYNC getPage delay us=8 page=0 name=IDX_WARM_EXSIM_EXSIM_OUT
+11:37:50.465 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:50.466 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat
+11:37:50.466 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=0
+11:37:50.466 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx
+11:37:50.466 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:50.466 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat
+11:37:50.466 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=0
+11:37:50.466 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx
+11:37:50.466 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:50.466 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat
+11:37:50.466 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=0
+11:37:50.467 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx
+11:37:50.467 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:50.474 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:50.474 [info]  Initialising decoder to UTC date 20170819-
+11:37:50.475 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:50.482 [info]  WARM_EXSIM INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:50.482 [info]  WARM_EXSIM OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:50.983 [info]  WARM_OM_2_SRV INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:50.983 [info]  WARM_OM_2_SRV OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:50.984 [info]  WARM_OM2CLT INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:50.984 [info]  WARM_OM2CLT OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:51.487 [info]  WARM_CLIENTSIM INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:51.487 [info]  WARM_CLIENTSIM OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:51.988 [info]  Session WARM_EXSIM connect invoked
+11:37:51.990 [info]  Session WARM_OM_2_SRV connect invoked
+11:37:51.991 [info]  Session WARM_EXSIMReceiver RECEIVE LOOP STARTED
+11:37:51.991 [info]  Session WARM_EXSIM attempting to connect 
+11:37:51.991 [info]  Session WARM_OM2CLT connect invoked
+11:37:51.991 [info]  Session WARM_OM_2_SRVReceiver RECEIVE LOOP STARTED
+11:37:51.991 [info]  Session WARM_OM_2_SRV attempting to connect 
+11:37:51.991 [info]  Session WARM_CLIENTSIM connect invoked
+11:37:51.991 [info]  WARM_EXSIM InternalThreadedDispatcher running, disconnectPause=5
+11:37:51.991 [info]  WARM_OM_2_SRV InternalThreadedDispatcher running, disconnectPause=5
+11:37:51.992 [info]  Session WARM_OM2CLTReceiver RECEIVE LOOP STARTED
+11:37:51.992 [info]  Session WARM_OM2CLT attempting to connect 
+11:37:51.992 [info]  Session WARM_CLIENTSIMReceiver RECEIVE LOOP STARTED
+11:37:51.992 [info]  Session WARM_CLIENTSIM attempting to connect 
+11:37:51.992 [info]  WARM_CLIENTSIM InternalThreadedDispatcher running, disconnectPause=5
+11:37:51.992 [info]  WARM_OM2CLT InternalThreadedDispatcher running, disconnectPause=5
+11:37:52.005 [info]  Session WARM_EXSIM, found 1 entries for IP address 127.0.0.1
+11:37:52.005 [info]  Session WARM_OM2CLT, found 1 entries for IP address 127.0.0.1
+11:37:52.005 [info]  Session WARM_OM2CLT, no adapter specified for IP address 127.0.0.1, port=14201
+11:37:52.005 [info]  Session WARM_EXSIM, no adapter specified for IP address 127.0.0.1, port=14211
+11:37:52.012 [info]  Session change from Disconnected to Listening : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.012 [info]  Session change from Disconnected to Listening : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.073 [info]  SocketSession client WARM_CLIENTSIM no interface specified wont bind locally
+11:37:52.073 [info]  Session WARM_CLIENTSIM, found 1 entries for IP address 127.0.0.1
+11:37:52.073 [info]  Session WARM_CLIENTSIM, no adapter specified for IP address 127.0.0.1, port=14201
+11:37:52.073 [info]  SocketSession client WARM_OM_2_SRV no interface specified wont bind locally
+11:37:52.074 [info]  Session WARM_OM_2_SRV, found 1 entries for IP address 127.0.0.1
+11:37:52.074 [info]  Session WARM_OM_2_SRV, no adapter specified for IP address 127.0.0.1, port=14211
+11:37:52.074 [info]  Session change from Disconnected to Connected : FixSocketSession id=WARM_OM_2_SRV  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTE1, targetCompId=WARMUP_TEXE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_OM2EX_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.074 [info]  Session OutDispatcher DISPATCH_WARM_OM2EX_DISPATCHER : CONNECTED
+11:37:52.077 [info]  Session change from Disconnected to Connected : FixSocketSession id=WARM_CLIENTSIM  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TCLT1, targetCompId=WARMUP_SMTC1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_CLTSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.077 [info]  Session OutDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER : CONNECTED
+11:37:52.078 [info]  Session change from Listening to Connected : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.078 [info]  Session OutDispatcher DISPATCH_WARMUP_OM2CLIENT_DISPATCHER : CONNECTED
+11:37:52.078 [info]  Session change from Listening to Connected : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:52.078 [info]  Session OutDispatcher DISPATCH_WARMUP_EXSIM_DISPATCHER : CONNECTED
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_EXSIM, nextFireMS=1000, repeatPeriodMS=1000
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:HB_WARM_EXSIM for 1000ms from now
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_EXSIM, nextFireMS=1100, repeatPeriodMS=1100
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:MHB_WARM_EXSIM for 1100ms from now
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_CLIENTSIM, nextFireMS=1000, repeatPeriodMS=1000
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:HB_WARM_CLIENTSIM for 1000ms from now
+11:37:52.080 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_EXSIM
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_CLIENTSIM, nextFireMS=1100, repeatPeriodMS=1100
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:MHB_WARM_CLIENTSIM for 1100ms from now
+11:37:52.080 [info]  WARM_EXSIM  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:52.080 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_CLIENTSIM
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_OM2CLT, nextFireMS=1000, repeatPeriodMS=1000
+11:37:52.080 [info]  WARM_CLIENTSIM  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:HB_WARM_OM2CLT for 1000ms from now
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_OM2CLT, nextFireMS=1100, repeatPeriodMS=1100
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:MHB_WARM_OM2CLT for 1100ms from now
+11:37:52.080 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_OM2CLT
+11:37:52.080 [info]  WARM_OM2CLT  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_OM_2_SRV, nextFireMS=1000, repeatPeriodMS=1000
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:HB_WARM_OM_2_SRV for 1000ms from now
+11:37:52.080 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_OM_2_SRV, nextFireMS=1100, repeatPeriodMS=1100
+11:37:52.080 [info]  ZTimer Adding task Heartbeat:MHB_WARM_OM_2_SRV for 1100ms from now
+11:37:52.080 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_OM_2_SRV
+11:37:52.080 [info]  WARM_OM_2_SRV  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:52.092 [info]  Clearing the order map
+11:37:52.092 [info]  Clear complete
+11:37:52.117 [Warn]  MemMapPageMgr PRELOADED getPage delay us=23 page=1 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.117 [Warn]  MemMapPageMgr PRELOADED getPage delay us=15 page=1 name=WARM_OM2CLT_CLT_IN
+11:37:52.118 [Warn]  MemMapPageMgr PRELOADED getPage delay us=21 page=1 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.118 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=1 name=WARM_EXSIM_EXSIM_IN
+11:37:52.119 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=1 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.119 [Warn]  MemMapPageMgr PRELOADED getPage delay us=10 page=1 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.119 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=1 name=WARM_OM2CLT_CLT_OUT
+11:37:52.119 [Warn]  MemMapPageMgr PRELOADED getPage delay us=74 page=1 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.141 [Warn]  MemMapPageMgr PRELOADED getPage delay us=49 page=2 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.142 [Warn]  MemMapPageMgr PRELOADED getPage delay us=39 page=2 name=WARM_OM2CLT_CLT_IN
+11:37:52.142 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=2 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.142 [Warn]  MemMapPageMgr PRELOADED getPage delay us=14 page=2 name=WARM_EXSIM_EXSIM_IN
+11:37:52.144 [Warn]  MemMapPageMgr PRELOADED getPage delay us=18 page=2 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.145 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=2 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.145 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=2 name=WARM_OM2CLT_CLT_OUT
+11:37:52.146 [Warn]  MemMapPageMgr PRELOADED getPage delay us=194 page=2 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.163 [Warn]  MemMapPageMgr PRELOADED getPage delay us=49 page=3 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.164 [Warn]  MemMapPageMgr PRELOADED getPage delay us=33 page=3 name=WARM_OM2CLT_CLT_IN
+11:37:52.164 [Warn]  MemMapPageMgr PRELOADED getPage delay us=15 page=3 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.164 [Warn]  MemMapPageMgr PRELOADED getPage delay us=16 page=3 name=WARM_EXSIM_EXSIM_IN
+11:37:52.169 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=3 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.169 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=3 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.169 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=3 name=WARM_OM2CLT_CLT_OUT
+11:37:52.170 [Warn]  MemMapPageMgr PRELOADED getPage delay us=778 page=3 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.189 [Warn]  MemMapPageMgr PRELOADED getPage delay us=15 page=4 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.189 [Warn]  MemMapPageMgr PRELOADED getPage delay us=111 page=4 name=WARM_OM2CLT_CLT_IN
+11:37:52.189 [Warn]  MemMapPageMgr PRELOADED getPage delay us=81 page=4 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.190 [Warn]  MemMapPageMgr PRELOADED getPage delay us=84 page=4 name=WARM_EXSIM_EXSIM_IN
+11:37:52.195 [Warn]  MemMapPageMgr PRELOADED getPage delay us=19 page=4 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.195 [Warn]  MemMapPageMgr PRELOADED getPage delay us=34 page=4 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.195 [Warn]  MemMapPageMgr PRELOADED getPage delay us=18 page=4 name=WARM_OM2CLT_CLT_OUT
+11:37:52.196 [Warn]  MemMapPageMgr PRELOADED getPage delay us=144 page=4 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.212 [Warn]  MemMapPageMgr PRELOADED getPage delay us=275 page=5 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.212 [Warn]  MemMapPageMgr PRELOADED getPage delay us=27 page=5 name=WARM_OM2CLT_CLT_IN
+11:37:52.213 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=5 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.213 [Warn]  MemMapPageMgr PRELOADED getPage delay us=18 page=5 name=WARM_EXSIM_EXSIM_IN
+11:37:52.219 [Warn]  MemMapPageMgr PRELOADED getPage delay us=14 page=5 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.219 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=5 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.220 [Warn]  MemMapPageMgr PRELOADED getPage delay us=78 page=5 name=WARM_OM2CLT_CLT_OUT
+11:37:52.220 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=5 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.233 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=6 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.234 [Warn]  MemMapPageMgr PRELOADED getPage delay us=12 page=6 name=WARM_OM2CLT_CLT_IN
+11:37:52.234 [Warn]  MemMapPageMgr PRELOADED getPage delay us=81 page=6 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.234 [Warn]  MemMapPageMgr PRELOADED getPage delay us=80 page=6 name=WARM_EXSIM_EXSIM_IN
+11:37:52.749 [info]  Warmup waiting for expected number of events 100
+11:37:52.749 [info]  Warmup replies=100, statsSeenClOrdId=100
+11:37:52.749 [info]  WarmupFixSocketSession COMPLETED  : testRequests=100
+11:37:52.749 [info]  SessionThreadedDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER finished
+11:37:52.749 [info]  ThreadedDispatcher DISPATCH_WarmupProcessorDispatcher finished
+11:37:52.749 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_CLIENTSIM  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TCLT1, targetCompId=WARMUP_SMTC1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_CLTSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:52.749 [info]  Session OutDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER : DISCONNECTED
+11:37:52.749 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_CLIENTSIM
+11:37:52.749 [info]  SessionController setting sync num to : 0 for WARM_CLIENTSIM
+11:37:52.749 [info]  WARM_CLIENTSIM  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:52.750 [Warn]  WARM_OM2CLT Detected socket disconnect
+11:37:52.750 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:52.750 [info]  Session OutDispatcher DISPATCH_WARMUP_OM2CLIENT_DISPATCHER : DISCONNECTED
+11:37:52.750 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_OM2CLT
+11:37:52.750 [info]  SessionController setting sync num to : 0 for WARM_OM2CLT
+11:37:52.750 [info]  WARM_OM2CLT  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:52.750 [info]  Session WARM_CLIENTSIM now paused so disconnect if connected
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:52.751 [info]  Unmap for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_IN : 40 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=5
+11:37:52.751 [info]  Unmap for page 4, mapper=WARM_CLIENTSIM_CLTSIM_IN : 18 usec
+11:37:52.751 [info]  Unmap for page 5, mapper=WARM_CLIENTSIM_CLTSIM_IN : 14 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:52.751 [info]  Unmap for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_OUT : 10 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=6
+11:37:52.751 [info]  Unmap for page 5, mapper=WARM_CLIENTSIM_CLTSIM_OUT : 54 usec
+11:37:52.751 [info]  Unmap for page 6, mapper=WARM_CLIENTSIM_CLTSIM_OUT : 10 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:52.751 [info]  Unmap for page 0, mapper=IDX_WARM_OM2CLT_CLT_IN : 14 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=6
+11:37:52.751 [info]  Unmap for page 5, mapper=WARM_OM2CLT_CLT_IN : 24 usec
+11:37:52.751 [info]  Unmap for page 6, mapper=WARM_OM2CLT_CLT_IN : 17 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:52.751 [info]  Unmap for page 0, mapper=IDX_WARM_OM2CLT_CLT_OUT : 29 usec
+11:37:52.751 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=5
+11:37:52.751 [info]  Unmap for page 4, mapper=WARM_OM2CLT_CLT_OUT : 18 usec
+11:37:52.751 [info]  Unmap for page 5, mapper=WARM_OM2CLT_CLT_OUT : 9 usec
+11:37:52.751 [info]  Session WARM_OM2CLT RECEIVE LOOP FINISHED
+11:37:52.751 [info]  SessionThreadedDispatcher DISPATCH_WARM_OM2EX_DISPATCHER finished
+11:37:52.751 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_OM_2_SRV  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTE1, targetCompId=WARMUP_TEXE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_OM2EX_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:52.751 [info]  Session OutDispatcher DISPATCH_WARM_OM2EX_DISPATCHER : DISCONNECTED
+11:37:52.751 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_OM_2_SRV
+11:37:52.751 [info]  SessionController setting sync num to : 0 for WARM_OM_2_SRV
+11:37:52.751 [info]  WARM_OM_2_SRV  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:52.752 [info]  Session WARM_OM_2_SRV now paused so disconnect if connected
+11:37:52.752 [Warn]  WARM_EXSIM Detected socket disconnect
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:52.752 [info]  Unmap for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_IN : 16 usec
+11:37:52.752 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=5
+11:37:52.752 [info]  Session OutDispatcher DISPATCH_WARMUP_EXSIM_DISPATCHER : DISCONNECTED
+11:37:52.752 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_EXSIM
+11:37:52.752 [info]  SessionController setting sync num to : 0 for WARM_EXSIM
+11:37:52.752 [info]  Unmap for page 4, mapper=WARM_OM_2_SRV_EXC1_IN : 19 usec
+11:37:52.752 [info]  WARM_EXSIM  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:52.752 [info]  Unmap for page 5, mapper=WARM_OM_2_SRV_EXC1_IN : 12 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:52.752 [info]  Unmap for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_OUT : 56 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=6
+11:37:52.752 [info]  Unmap for page 5, mapper=WARM_OM_2_SRV_EXC1_OUT : 29 usec
+11:37:52.752 [info]  Unmap for page 6, mapper=WARM_OM_2_SRV_EXC1_OUT : 9 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:52.752 [info]  Unmap for page 0, mapper=IDX_WARM_EXSIM_EXSIM_IN : 36 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=6
+11:37:52.752 [info]  Unmap for page 5, mapper=WARM_EXSIM_EXSIM_IN : 12 usec
+11:37:52.752 [info]  Unmap for page 6, mapper=WARM_EXSIM_EXSIM_IN : 19 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:52.752 [info]  Unmap for page 0, mapper=IDX_WARM_EXSIM_EXSIM_OUT : 12 usec
+11:37:52.752 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=5
+11:37:52.752 [info]  Unmap for page 4, mapper=WARM_EXSIM_EXSIM_OUT : 10 usec
+11:37:52.752 [info]  Unmap for page 5, mapper=WARM_EXSIM_EXSIM_OUT : 9 usec
+11:37:52.752 [info]  Session WARM_EXSIM RECEIVE LOOP FINISHED
+11:37:52.752 [info]  ThreadedDispatcher DISPATCH_WarmupExchangeSimAdapter finished
+11:37:52.755 [info]  Warmup (A) FixSocketSessionCME total 2 secs
+11:37:52.755 [info]  FORCED SLEEP TO DECAY RECOMPILE TIMERS for 0 SECS
+11:37:52.755 [info]  Warmup (B) Codecs
+11:37:52.757 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.758 [info]  Warmup (B) Codecs total 0 secs
+11:37:52.758 [info]  Warmup (B) Recycling
+11:37:52.758 [info]  Warmup (B) Recycling total 0 secs
+11:37:52.758 [info]  Warmup (B) LoggerAndFileAppender
+11:37:52.761 [info]  Warmup (B) LoggerAndFileAppender total 0 secs
+11:37:52.761 [info]  Warmup (B) Routers
+11:37:52.761 [info]  Warmup (B) Routers total 0 secs
+11:37:52.761 [info]  Warmup (B) JavaSpecific
+11:37:52.762 [info]  Warmup (B) JavaSpecific total 0 secs
+11:37:52.762 [info]  Warmup (B) HeartbeatCME
+11:37:52.763 [info]  Warmup (B) HeartbeatCME total 0 secs
+11:37:52.763 [info]  Warmup (B) FixSocketSessionCME
+11:37:52.763 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.763 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.763 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.764 [info]  Client TestClient totOrdValue thresholds low=Infinity (60), med=Infinity (80), high=Infinity (90), max=1.7976931348623157E308
+11:37:52.764 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.764 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.764 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.764 [info]  Setting decoder com.rr.model.generated.fix.codec.Standard44Decoder to UTC date 20170819-
+11:37:52.764 [info]  Client TestClient totOrdValue thresholds low=Infinity (60), med=Infinity (80), high=Infinity (90), max=1.7976931348623157E308
+11:37:52.765 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.765 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.765 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.765 [info]  Setting decoder com.rr.model.generated.fix.codec.RecoveryStandard44Decoder to UTC date 20170819-
+11:37:52.768 [info]  WarmupFixSocketSession WARMUP PARAMS : numOrder=100, delayMS=100, warmClientHost=127.0.0.1, warmClientPort=14201, warmExchangeHost=127.0.0.1, warmExchagePort=14211
+11:37:52.771 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.771 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.771 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.771 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.771 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.772 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.772 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.772 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.774 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.775 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.776 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.776 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.776 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.776 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.777 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.777 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.777 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.777 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.778 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_IN, filePreSize=1048576, pageSize=4096
+11:37:52.778 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_CLIENTSIM_CLTSIM_INDateRoll, isEventScheduled=false
+11:37:52.778 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.778 [info]  MemMapPersister IDX_WARM_CLIENTSIM_CLTSIM_IN, filePreSize=1048576, pageSize=2097152
+11:37:52.778 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_CLIENTSIM_CLTSIM_INDateRoll, isEventScheduled=false
+11:37:52.778 [info]  IndexMMPersister IDX_WARM_CLIENTSIM_CLTSIM_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.779 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_OUT, filePreSize=1048576, pageSize=4096
+11:37:52.779 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_CLIENTSIM_CLTSIM_OUTDateRoll, isEventScheduled=false
+11:37:52.779 [info]  MemMapPersister WARM_CLIENTSIM_CLTSIM_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.779 [info]  MemMapPersister IDX_WARM_CLIENTSIM_CLTSIM_OUT, filePreSize=1048576, pageSize=2097152
+11:37:52.779 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_CLIENTSIM_CLTSIM_OUTDateRoll, isEventScheduled=false
+11:37:52.779 [info]  IndexMMPersister IDX_WARM_CLIENTSIM_CLTSIM_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.780 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat
+11:37:52.784 [info]  Map for page 0, mapper=WARM_CLIENTSIM_CLTSIM_IN, size=4096 : 48 usec
+11:37:52.784 [Warn]  MemMapPageMgr SYNC getPage delay us=14 page=0 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.784 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=0
+11:37:52.784 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx
+11:37:52.785 [info]  Map for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_IN, size=2097152 : 34 usec
+11:37:52.785 [info]  MemMapPageMgr SYNC getPage delay us=7 page=0 name=IDX_WARM_CLIENTSIM_CLTSIM_IN
+11:37:52.785 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:52.785 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat
+11:37:52.786 [info]  Map for page 0, mapper=WARM_CLIENTSIM_CLTSIM_OUT, size=4096 : 41 usec
+11:37:52.786 [info]  MemMapPageMgr SYNC getPage delay us=10 page=0 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.786 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=0
+11:37:52.786 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx
+11:37:52.786 [info]  Map for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_OUT, size=2097152 : 61 usec
+11:37:52.786 [info]  MemMapPageMgr SYNC getPage delay us=8 page=0 name=IDX_WARM_CLIENTSIM_CLTSIM_OUT
+11:37:52.786 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:52.787 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.787 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.787 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.787 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.788 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.788 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.788 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.788 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.789 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_IN, filePreSize=1048576, pageSize=4096
+11:37:52.789 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM_2_SRV_EXC1_INDateRoll, isEventScheduled=false
+11:37:52.789 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.789 [info]  MemMapPersister IDX_WARM_OM_2_SRV_EXC1_IN, filePreSize=1048576, pageSize=2097152
+11:37:52.789 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM_2_SRV_EXC1_INDateRoll, isEventScheduled=false
+11:37:52.789 [info]  IndexMMPersister IDX_WARM_OM_2_SRV_EXC1_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.789 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_OUT, filePreSize=1048576, pageSize=4096
+11:37:52.789 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM_2_SRV_EXC1_OUTDateRoll, isEventScheduled=false
+11:37:52.789 [info]  MemMapPersister WARM_OM_2_SRV_EXC1_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.790 [info]  MemMapPersister IDX_WARM_OM_2_SRV_EXC1_OUT, filePreSize=1048576, pageSize=2097152
+11:37:52.790 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM_2_SRV_EXC1_OUTDateRoll, isEventScheduled=false
+11:37:52.790 [info]  IndexMMPersister IDX_WARM_OM_2_SRV_EXC1_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.792 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat
+11:37:52.792 [info]  Map for page 0, mapper=WARM_OM_2_SRV_EXC1_IN, size=4096 : 41 usec
+11:37:52.792 [Warn]  MemMapPageMgr SYNC getPage delay us=15 page=0 name=WARM_OM_2_SRV_EXC1_IN
+11:37:52.792 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=0
+11:37:52.792 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx
+11:37:52.793 [info]  Map for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_IN, size=2097152 : 95 usec
+11:37:52.793 [info]  MemMapPageMgr SYNC getPage delay us=9 page=0 name=IDX_WARM_OM_2_SRV_EXC1_IN
+11:37:52.793 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:52.793 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat
+11:37:52.794 [info]  Map for page 0, mapper=WARM_OM_2_SRV_EXC1_OUT, size=4096 : 31 usec
+11:37:52.794 [info]  MemMapPageMgr SYNC getPage delay us=9 page=0 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:52.794 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=0
+11:37:52.794 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx
+11:37:52.794 [info]  Map for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_OUT, size=2097152 : 57 usec
+11:37:52.794 [info]  MemMapPageMgr SYNC getPage delay us=10 page=0 name=IDX_WARM_OM_2_SRV_EXC1_OUT
+11:37:52.794 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:52.794 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.795 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.795 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.795 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.795 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.796 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.796 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.796 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.797 [info]  MemMapPersister WARM_OM2CLT_CLT_IN, filePreSize=1048576, pageSize=4096
+11:37:52.797 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM2CLT_CLT_INDateRoll, isEventScheduled=false
+11:37:52.797 [info]  MemMapPersister WARM_OM2CLT_CLT_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.797 [info]  MemMapPersister IDX_WARM_OM2CLT_CLT_IN, filePreSize=1048576, pageSize=2097152
+11:37:52.797 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM2CLT_CLT_INDateRoll, isEventScheduled=false
+11:37:52.797 [info]  IndexMMPersister IDX_WARM_OM2CLT_CLT_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.797 [info]  MemMapPersister WARM_OM2CLT_CLT_OUT, filePreSize=1048576, pageSize=4096
+11:37:52.797 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_OM2CLT_CLT_OUTDateRoll, isEventScheduled=false
+11:37:52.797 [info]  MemMapPersister WARM_OM2CLT_CLT_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.798 [info]  MemMapPersister IDX_WARM_OM2CLT_CLT_OUT, filePreSize=1048576, pageSize=2097152
+11:37:52.798 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_OM2CLT_CLT_OUTDateRoll, isEventScheduled=false
+11:37:52.798 [info]  IndexMMPersister IDX_WARM_OM2CLT_CLT_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.800 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat
+11:37:52.800 [info]  Map for page 0, mapper=WARM_OM2CLT_CLT_IN, size=4096 : 50 usec
+11:37:52.800 [Warn]  MemMapPageMgr SYNC getPage delay us=17 page=0 name=WARM_OM2CLT_CLT_IN
+11:37:52.800 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=0
+11:37:52.800 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx
+11:37:52.800 [info]  Map for page 0, mapper=IDX_WARM_OM2CLT_CLT_IN, size=2097152 : 48 usec
+11:37:52.800 [info]  MemMapPageMgr SYNC getPage delay us=10 page=0 name=IDX_WARM_OM2CLT_CLT_IN
+11:37:52.800 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:52.800 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat
+11:37:52.801 [info]  Map for page 0, mapper=WARM_OM2CLT_CLT_OUT, size=4096 : 31 usec
+11:37:52.801 [info]  MemMapPageMgr SYNC getPage delay us=10 page=0 name=WARM_OM2CLT_CLT_OUT
+11:37:52.801 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=0
+11:37:52.801 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx
+11:37:52.801 [info]  Map for page 0, mapper=IDX_WARM_OM2CLT_CLT_OUT, size=2097152 : 38 usec
+11:37:52.801 [info]  MemMapPageMgr SYNC getPage delay us=7 page=0 name=IDX_WARM_OM2CLT_CLT_OUT
+11:37:52.801 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:52.801 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.801 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.801 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.801 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.802 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.802 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.802 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.803 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.803 [info]  MemMapPersister WARM_EXSIM_EXSIM_IN, filePreSize=1048576, pageSize=4096
+11:37:52.803 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_EXSIM_EXSIM_INDateRoll, isEventScheduled=false
+11:37:52.803 [info]  MemMapPersister WARM_EXSIM_EXSIM_IN, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.803 [info]  MemMapPersister IDX_WARM_EXSIM_EXSIM_IN, filePreSize=1048576, pageSize=2097152
+11:37:52.803 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_EXSIM_EXSIM_INDateRoll, isEventScheduled=false
+11:37:52.803 [info]  IndexMMPersister IDX_WARM_EXSIM_EXSIM_IN, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.804 [info]  MemMapPersister WARM_EXSIM_EXSIM_OUT, filePreSize=1048576, pageSize=4096
+11:37:52.804 [info]  Scheduler.registerForGroupEvent EndOfDay, listener WARM_EXSIM_EXSIM_OUTDateRoll, isEventScheduled=false
+11:37:52.804 [info]  MemMapPersister WARM_EXSIM_EXSIM_OUT, maxRecSize=4087, pageSize=4096, initFileSize=26624
+11:37:52.804 [info]  MemMapPersister IDX_WARM_EXSIM_EXSIM_OUT, filePreSize=1048576, pageSize=2097152
+11:37:52.804 [info]  Scheduler.registerForGroupEvent EndOfDay, listener IDX_WARM_EXSIM_EXSIM_OUTDateRoll, isEventScheduled=false
+11:37:52.804 [info]  IndexMMPersister IDX_WARM_EXSIM_EXSIM_OUT, preSize=2624, recSize=16, entriesPage=131072, pageSize=2097152
+11:37:52.806 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat
+11:37:52.807 [info]  Map for page 0, mapper=WARM_EXSIM_EXSIM_IN, size=4096 : 54 usec
+11:37:52.807 [Warn]  MemMapPageMgr SYNC getPage delay us=16 page=0 name=WARM_EXSIM_EXSIM_IN
+11:37:52.807 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=0
+11:37:52.807 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx
+11:37:52.807 [info]  Map for page 0, mapper=IDX_WARM_EXSIM_EXSIM_IN, size=2097152 : 54 usec
+11:37:52.807 [Warn]  MemMapPageMgr SYNC getPage delay us=14 page=0 name=IDX_WARM_EXSIM_EXSIM_IN
+11:37:52.807 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:52.807 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat
+11:37:52.808 [info]  Map for page 0, mapper=WARM_EXSIM_EXSIM_OUT, size=4096 : 36 usec
+11:37:52.808 [Warn]  MemMapPageMgr SYNC getPage delay us=12 page=0 name=WARM_EXSIM_EXSIM_OUT
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx
+11:37:52.808 [info]  Map for page 0, mapper=IDX_WARM_EXSIM_EXSIM_OUT, size=2097152 : 154 usec
+11:37:52.808 [Warn]  MemMapPageMgr SYNC getPage delay us=11 page=0 name=IDX_WARM_EXSIM_EXSIM_OUT
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx
+11:37:52.808 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:52.808 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=0
+11:37:52.809 [info]  Opening MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx
+11:37:52.809 [info]  Opened MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:52.809 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:52.809 [info]  Initialising decoder to UTC date 20170819-
+11:37:52.809 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:52.811 [info]  WARM_EXSIM INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:52.819 [info]  WARM_EXSIM OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:52.845 [info]  WARM_OM_2_SRV INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:52.846 [info]  WARM_OM_2_SRV OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:52.846 [info]  WARM_OM2CLT INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:52.846 [info]  WARM_OM2CLT OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:52.850 [info]  WARM_CLIENTSIM INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:52.850 [info]  WARM_CLIENTSIM OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:53.085 [info]  Scheduler.cancelIndividual event Heartbeat for listener HB_WARM_EXSIM
+11:37:53.085 [info]  Scheduler.cancelIndividual event Heartbeat for listener HB_WARM_CLIENTSIM
+11:37:53.085 [info]  Scheduler.cancelIndividual event Heartbeat for listener HB_WARM_OM2CLT
+11:37:53.085 [info]  Scheduler.cancelIndividual event Heartbeat for listener HB_WARM_OM_2_SRV
+11:37:53.181 [info]  Scheduler.cancelIndividual event Heartbeat for listener MHB_WARM_EXSIM
+11:37:53.181 [info]  Scheduler.cancelIndividual event Heartbeat for listener MHB_WARM_CLIENTSIM
+11:37:53.181 [info]  Scheduler.cancelIndividual event Heartbeat for listener MHB_WARM_OM2CLT
+11:37:53.181 [info]  Scheduler.cancelIndividual event Heartbeat for listener MHB_WARM_OM_2_SRV
+11:37:53.350 [info]  Session WARM_EXSIM connect invoked
+11:37:53.352 [info]  Session WARM_OM_2_SRV connect invoked
+11:37:53.352 [info]  Session WARM_OM2CLT connect invoked
+11:37:53.352 [info]  WARM_EXSIM InternalThreadedDispatcher running, disconnectPause=5
+11:37:53.352 [info]  Session WARM_CLIENTSIM connect invoked
+11:37:53.352 [info]  Session WARM_EXSIMReceiver RECEIVE LOOP STARTED
+11:37:53.352 [info]  Session WARM_CLIENTSIMReceiver RECEIVE LOOP STARTED
+11:37:53.352 [info]  WARM_OM2CLT InternalThreadedDispatcher running, disconnectPause=5
+11:37:53.353 [info]  Session WARM_OM2CLTReceiver RECEIVE LOOP STARTED
+11:37:53.353 [info]  WARM_OM_2_SRV InternalThreadedDispatcher running, disconnectPause=5
+11:37:53.353 [info]  Session WARM_EXSIM attempting to connect 
+11:37:53.353 [info]  Session WARM_OM_2_SRVReceiver RECEIVE LOOP STARTED
+11:37:53.353 [info]  Session WARM_CLIENTSIM attempting to connect 
+11:37:53.353 [info]  Session WARM_OM2CLT attempting to connect 
+11:37:53.353 [info]  WARM_CLIENTSIM InternalThreadedDispatcher running, disconnectPause=5
+11:37:53.353 [info]  Session WARM_OM_2_SRV attempting to connect 
+11:37:53.353 [info]  Session WARM_OM2CLT, found 1 entries for IP address 127.0.0.1
+11:37:53.353 [info]  SocketSession client WARM_OM_2_SRV no interface specified wont bind locally
+11:37:53.353 [info]  Session WARM_OM2CLT, no adapter specified for IP address 127.0.0.1, port=14201
+11:37:53.353 [info]  Session WARM_OM_2_SRV, found 1 entries for IP address 127.0.0.1
+11:37:53.353 [info]  Session WARM_OM_2_SRV, no adapter specified for IP address 127.0.0.1, port=14211
+11:37:53.353 [info]  Session change from Disconnected to Listening : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:53.353 [info]  SocketSession client WARM_CLIENTSIM no interface specified wont bind locally
+11:37:53.353 [info]  Session WARM_CLIENTSIM, found 1 entries for IP address 127.0.0.1
+11:37:53.353 [info]  Session WARM_CLIENTSIM, no adapter specified for IP address 127.0.0.1, port=14201
+11:37:53.354 [info]  Session WARM_EXSIM, found 1 entries for IP address 127.0.0.1
+11:37:53.354 [info]  Session WARM_EXSIM, no adapter specified for IP address 127.0.0.1, port=14211
+11:37:53.354 [info]  Session change from Disconnected to Connected : FixSocketSession id=WARM_CLIENTSIM  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TCLT1, targetCompId=WARMUP_SMTC1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_CLTSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:53.354 [info]  Session change from Disconnected to Listening : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:53.354 [info]  Session OutDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER : CONNECTED
+11:37:53.354 [info]  Session change from Listening to Connected : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:53.354 [info]  Session OutDispatcher DISPATCH_WARMUP_OM2CLIENT_DISPATCHER : CONNECTED
+11:37:53.355 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_OM2CLT, nextFireMS=1000, repeatPeriodMS=1000
+11:37:53.355 [info]  ZTimer Adding task Heartbeat:HB_WARM_OM2CLT for 1000ms from now
+11:37:53.355 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_OM2CLT, nextFireMS=1100, repeatPeriodMS=1100
+11:37:53.355 [info]  ZTimer Adding task Heartbeat:MHB_WARM_OM2CLT for 1100ms from now
+11:37:53.355 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_OM2CLT
+11:37:53.355 [info]  WARM_OM2CLT  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:53.355 [ERROR] [SEC200] Error opening socket:  WARM_OM_2_SRV Failed to connect as client blocking socket: , host=127.0.0.1, port=14211 : Connection refused
+11:37:53.355 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_CLIENTSIM, nextFireMS=1000, repeatPeriodMS=1000
+11:37:53.355 [info]  ZTimer Adding task Heartbeat:HB_WARM_CLIENTSIM for 1000ms from now
+11:37:53.355 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_CLIENTSIM, nextFireMS=1100, repeatPeriodMS=1100
+11:37:53.355 [info]  ZTimer Adding task Heartbeat:MHB_WARM_CLIENTSIM for 1100ms from now
+11:37:53.355 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_CLIENTSIM
+11:37:53.355 [info]  WARM_CLIENTSIM  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:57.754 [info]  Session WARM_CLIENTSIM RECEIVE LOOP FINISHED
+11:37:57.754 [info]  Session WARM_OM_2_SRV RECEIVE LOOP FINISHED
+11:37:58.356 [info]  SocketSession client WARM_OM_2_SRV no interface specified wont bind locally
+11:37:58.356 [info]  Session WARM_OM_2_SRV, found 1 entries for IP address 127.0.0.1
+11:37:58.356 [info]  Session WARM_OM_2_SRV, no adapter specified for IP address 127.0.0.1, port=14211
+11:37:58.357 [info]  Session change from Listening to Connected : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:58.357 [info]  Session OutDispatcher DISPATCH_WARMUP_EXSIM_DISPATCHER : CONNECTED
+11:37:58.357 [info]  Session change from Disconnected to Connected : FixSocketSession id=WARM_OM_2_SRV  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTE1, targetCompId=WARMUP_TEXE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_OM2EX_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:37:58.357 [info]  Session OutDispatcher DISPATCH_WARM_OM2EX_DISPATCHER : CONNECTED
+11:37:58.358 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_EXSIM, nextFireMS=1000, repeatPeriodMS=1000
+11:37:58.358 [info]  ZTimer Adding task Heartbeat:HB_WARM_EXSIM for 1000ms from now
+11:37:58.358 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_EXSIM, nextFireMS=1100, repeatPeriodMS=1100
+11:37:58.358 [info]  ZTimer Adding task Heartbeat:MHB_WARM_EXSIM for 1100ms from now
+11:37:58.358 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener HB_WARM_OM_2_SRV, nextFireMS=1000, repeatPeriodMS=1000
+11:37:58.358 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_EXSIM
+11:37:58.358 [info]  WARM_EXSIM  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:58.358 [info]  ZTimer Adding task Heartbeat:HB_WARM_OM_2_SRV for 1000ms from now
+11:37:58.358 [info]  Scheduler.registerIndividualRepeating Heartbeat, listener MHB_WARM_OM_2_SRV, nextFireMS=1100, repeatPeriodMS=1100
+11:37:58.358 [info]  ZTimer Adding task Heartbeat:MHB_WARM_OM_2_SRV for 1100ms from now
+11:37:58.358 [info]  SessionController change state from LoggedOutFixState to LoggedOnFixState for WARM_OM_2_SRV
+11:37:58.358 [info]  WARM_OM_2_SRV  nextOutSeqNo=2, nextInSeqNo=2, state=LoggedOnFixState
+11:37:58.381 [info]  Clearing the order map
+11:37:58.381 [info]  Clear complete
+11:37:58.399 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=1 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.399 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=1 name=WARM_OM2CLT_CLT_IN
+11:37:58.401 [Warn]  MemMapPageMgr PRELOADED getPage delay us=10 page=1 name=WARM_OM2CLT_CLT_OUT
+11:37:58.401 [Warn]  MemMapPageMgr PRELOADED getPage delay us=10 page=1 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:58.402 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=1 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.402 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=1 name=WARM_EXSIM_EXSIM_IN
+11:37:58.403 [Warn]  MemMapPageMgr PRELOADED getPage delay us=6 page=1 name=WARM_EXSIM_EXSIM_OUT
+11:37:58.403 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=1 name=WARM_OM_2_SRV_EXC1_IN
+11:37:58.422 [Warn]  MemMapPageMgr PRELOADED getPage delay us=17 page=2 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.422 [Warn]  MemMapPageMgr PRELOADED getPage delay us=13 page=2 name=WARM_OM2CLT_CLT_IN
+11:37:58.425 [Warn]  MemMapPageMgr PRELOADED getPage delay us=36 page=2 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.426 [Warn]  MemMapPageMgr PRELOADED getPage delay us=22 page=2 name=WARM_EXSIM_EXSIM_IN
+11:37:58.426 [Warn]  MemMapPageMgr PRELOADED getPage delay us=16 page=2 name=WARM_OM2CLT_CLT_OUT
+11:37:58.427 [Warn]  MemMapPageMgr PRELOADED getPage delay us=27 page=2 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:58.428 [Warn]  MemMapPageMgr PRELOADED getPage delay us=15 page=2 name=WARM_EXSIM_EXSIM_OUT
+11:37:58.429 [Warn]  MemMapPageMgr PRELOADED getPage delay us=15 page=2 name=WARM_OM_2_SRV_EXC1_IN
+11:37:58.444 [Warn]  MemMapPageMgr PRELOADED getPage delay us=12 page=3 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.444 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=3 name=WARM_OM2CLT_CLT_IN
+11:37:58.447 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=3 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.447 [Warn]  MemMapPageMgr PRELOADED getPage delay us=6 page=3 name=WARM_EXSIM_EXSIM_IN
+11:37:58.449 [Warn]  MemMapPageMgr PRELOADED getPage delay us=10 page=3 name=WARM_OM2CLT_CLT_OUT
+11:37:58.449 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=3 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:58.451 [Warn]  MemMapPageMgr PRELOADED getPage delay us=10 page=3 name=WARM_EXSIM_EXSIM_OUT
+11:37:58.452 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=3 name=WARM_OM_2_SRV_EXC1_IN
+11:37:58.466 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=4 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.467 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=4 name=WARM_OM2CLT_CLT_IN
+11:37:58.469 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=4 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.469 [Warn]  MemMapPageMgr PRELOADED getPage delay us=6 page=4 name=WARM_EXSIM_EXSIM_IN
+11:37:58.473 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=4 name=WARM_OM2CLT_CLT_OUT
+11:37:58.473 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=4 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:58.475 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=4 name=WARM_EXSIM_EXSIM_OUT
+11:37:58.475 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=4 name=WARM_OM_2_SRV_EXC1_IN
+11:37:58.488 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=5 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.488 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=5 name=WARM_OM2CLT_CLT_IN
+11:37:58.491 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=5 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.491 [Warn]  MemMapPageMgr PRELOADED getPage delay us=14 page=5 name=WARM_EXSIM_EXSIM_IN
+11:37:58.496 [Warn]  MemMapPageMgr PRELOADED getPage delay us=11 page=5 name=WARM_OM2CLT_CLT_OUT
+11:37:58.496 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=5 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:58.498 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=5 name=WARM_EXSIM_EXSIM_OUT
+11:37:58.498 [Warn]  MemMapPageMgr PRELOADED getPage delay us=34 page=5 name=WARM_OM_2_SRV_EXC1_IN
+11:37:58.510 [Warn]  MemMapPageMgr PRELOADED getPage delay us=9 page=6 name=WARM_CLIENTSIM_CLTSIM_OUT
+11:37:58.510 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=6 name=WARM_OM2CLT_CLT_IN
+11:37:58.513 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=6 name=WARM_OM_2_SRV_EXC1_OUT
+11:37:58.513 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=6 name=WARM_EXSIM_EXSIM_IN
+11:37:58.519 [Warn]  MemMapPageMgr PRELOADED getPage delay us=8 page=6 name=WARM_OM2CLT_CLT_OUT
+11:37:58.519 [Warn]  MemMapPageMgr PRELOADED getPage delay us=7 page=6 name=WARM_CLIENTSIM_CLTSIM_IN
+11:37:59.025 [info]  Warmup waiting for expected number of events 100
+11:37:59.025 [info]  Warmup replies=100, statsSeenClOrdId=100
+11:37:59.025 [info]  WarmupFixSocketSession COMPLETED  : testRequests=100
+11:37:59.025 [info]  SessionThreadedDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER finished
+11:37:59.025 [info]  ThreadedDispatcher DISPATCH_WarmupProcessorDispatcher finished
+11:37:59.025 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_CLIENTSIM  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TCLT1, targetCompId=WARMUP_SMTC1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_CLTSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=107, nextInSeqNo=107, state=LoggedOnFixState
+11:37:59.025 [info]  Session OutDispatcher DISPATCH_WARM_CLTSIM_DISPATCHER : DISCONNECTED
+11:37:59.025 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_CLIENTSIM
+11:37:59.025 [info]  SessionController setting sync num to : 0 for WARM_CLIENTSIM
+11:37:59.025 [info]  WARM_CLIENTSIM  nextOutSeqNo=107, nextInSeqNo=107, state=LoggedOutFixState
+11:37:59.026 [info]  Session WARM_CLIENTSIM now paused so disconnect if connected
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.idx, page=0
+11:37:59.026 [Warn]  WARM_OM2CLT Detected socket disconnect
+11:37:59.026 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_OM2CLT  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14201, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTC1, targetCompId=WARMUP_TCLT1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_OM2CLIENT_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=107, nextInSeqNo=107, state=LoggedOnFixState
+11:37:59.026 [info]  Session OutDispatcher DISPATCH_WARMUP_OM2CLIENT_DISPATCHER : DISCONNECTED
+11:37:59.026 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_OM2CLT
+11:37:59.026 [info]  Unmap for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_IN : 49 usec
+11:37:59.026 [info]  SessionController setting sync num to : 0 for WARM_OM2CLT
+11:37:59.026 [info]  WARM_OM2CLT  nextOutSeqNo=107, nextInSeqNo=107, state=LoggedOutFixState
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_in/in/WARM_CLIENTSIM_CLTSIM_IN.dat, page=6
+11:37:59.026 [info]  Unmap for page 5, mapper=WARM_CLIENTSIM_CLTSIM_IN : 13 usec
+11:37:59.026 [info]  Unmap for page 6, mapper=WARM_CLIENTSIM_CLTSIM_IN : 10 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.idx, page=0
+11:37:59.026 [info]  Unmap for page 0, mapper=IDX_WARM_CLIENTSIM_CLTSIM_OUT : 16 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_clientsim_cltsim_out/out/WARM_CLIENTSIM_CLTSIM_OUT.dat, page=6
+11:37:59.026 [info]  Unmap for page 5, mapper=WARM_CLIENTSIM_CLTSIM_OUT : 33 usec
+11:37:59.026 [info]  Unmap for page 6, mapper=WARM_CLIENTSIM_CLTSIM_OUT : 17 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.idx, page=0
+11:37:59.026 [info]  Unmap for page 0, mapper=IDX_WARM_OM2CLT_CLT_IN : 11 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_in/in/WARM_OM2CLT_CLT_IN.dat, page=6
+11:37:59.026 [info]  Unmap for page 5, mapper=WARM_OM2CLT_CLT_IN : 23 usec
+11:37:59.026 [info]  Unmap for page 6, mapper=WARM_OM2CLT_CLT_IN : 16 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.idx, page=0
+11:37:59.026 [info]  Unmap for page 0, mapper=IDX_WARM_OM2CLT_CLT_OUT : 10 usec
+11:37:59.026 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om2clt_clt_out/out/WARM_OM2CLT_CLT_OUT.dat, page=6
+11:37:59.026 [info]  Unmap for page 5, mapper=WARM_OM2CLT_CLT_OUT : 10 usec
+11:37:59.026 [info]  Unmap for page 6, mapper=WARM_OM2CLT_CLT_OUT : 68 usec
+11:37:59.027 [info]  Session WARM_OM2CLT RECEIVE LOOP FINISHED
+11:37:59.027 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_OM_2_SRV  , maxMsgsPerSecond=0, isServer=false, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_SMTE1, targetCompId=WARMUP_TEXE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARM_OM2EX_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=WARM_OM2HUB  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:59.027 [info]  Session OutDispatcher DISPATCH_WARM_OM2EX_DISPATCHER : DISCONNECTED
+11:37:59.027 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_OM_2_SRV
+11:37:59.027 [info]  SessionThreadedDispatcher DISPATCH_WARM_OM2EX_DISPATCHER finished
+11:37:59.027 [info]  SessionController setting sync num to : 0 for WARM_OM_2_SRV
+11:37:59.027 [info]  WARM_OM_2_SRV  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:59.027 [info]  Session WARM_OM_2_SRV now paused so disconnect if connected
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.idx, page=0
+11:37:59.027 [Warn]  WARM_EXSIM Detected socket disconnect
+11:37:59.027 [info]  Unmap for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_IN : 16 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_in/in/WARM_OM_2_SRV_EXC1_IN.dat, page=5
+11:37:59.027 [info]  Session change from Connected to Disconnected : FixSocketSession id=WARM_EXSIM  , maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=14211, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=WARMUP_TEXE1, targetCompId=WARMUP_SMTE1, fixVersion=Fix4_4, disconnectOnMissedHB=false, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_WARMUP_EXSIM_DISPATCHER, queue=BlockingSyncQueue), logEvents=false, logStats=true, chainSession=N/A  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOnFixState
+11:37:59.027 [info]  Unmap for page 4, mapper=WARM_OM_2_SRV_EXC1_IN : 11 usec
+11:37:59.027 [info]  Session OutDispatcher DISPATCH_WARMUP_EXSIM_DISPATCHER : DISCONNECTED
+11:37:59.027 [info]  Unmap for page 5, mapper=WARM_OM_2_SRV_EXC1_IN : 8 usec
+11:37:59.027 [info]  SessionController change state from LoggedOnFixState to LoggedOutFixState for WARM_EXSIM
+11:37:59.027 [info]  SessionController setting sync num to : 0 for WARM_EXSIM
+11:37:59.027 [info]  WARM_EXSIM  nextOutSeqNo=102, nextInSeqNo=102, state=LoggedOutFixState
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.idx, page=0
+11:37:59.027 [info]  Unmap for page 0, mapper=IDX_WARM_OM_2_SRV_EXC1_OUT : 11 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_om_2_srv_exc1_out/out/WARM_OM_2_SRV_EXC1_OUT.dat, page=6
+11:37:59.027 [info]  Unmap for page 5, mapper=WARM_OM_2_SRV_EXC1_OUT : 10 usec
+11:37:59.027 [info]  Unmap for page 6, mapper=WARM_OM_2_SRV_EXC1_OUT : 9 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.idx, page=0
+11:37:59.027 [info]  Unmap for page 0, mapper=IDX_WARM_EXSIM_EXSIM_IN : 12 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_in/in/WARM_EXSIM_EXSIM_IN.dat, page=6
+11:37:59.027 [info]  Unmap for page 5, mapper=WARM_EXSIM_EXSIM_IN : 10 usec
+11:37:59.027 [info]  Unmap for page 6, mapper=WARM_EXSIM_EXSIM_IN : 17 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.idx, page=0
+11:37:59.027 [info]  Unmap for page 0, mapper=IDX_WARM_EXSIM_EXSIM_OUT : 23 usec
+11:37:59.027 [info]  Closed MemMapPersister ./persist/warmup/WarmupExchangeSIM/warm_exsim_exsim_out/out/WARM_EXSIM_EXSIM_OUT.dat, page=5
+11:37:59.027 [info]  Unmap for page 4, mapper=WARM_EXSIM_EXSIM_OUT : 11 usec
+11:37:59.027 [info]  Unmap for page 5, mapper=WARM_EXSIM_EXSIM_OUT : 37 usec
+11:37:59.027 [info]  SessionThreadedDispatcher DISPATCH_WARMUP_EXSIM_DISPATCHER finished
+11:37:59.027 [info]  Session WARM_EXSIM RECEIVE LOOP FINISHED
+11:37:59.027 [info]  Warmup (B) FixSocketSessionCME total 6 secs
+11:37:59.027 [info]  Warmup Finished ... clearing warmup list
+11:37:59.028 [info]  ThreadedDispatcher DISPATCH_WarmupExchangeSimAdapter finished
+11:37:59.028 [info]  Scheduler.registerForGroupEvent UTCDateRoll, listener TimeZoneCalDateRoll, isEventScheduled=false
+11:37:59.028 [info]  Initialising decoder to UTC date 20170819-
+11:37:59.028 [info]  Client WarmupClient totOrdValue thresholds low=6000.0 (60), med=8000.0 (80), high=9000.0 (90), max=10000.0
+11:37:59.029 [info]  NOS_clOrdId CLORDID1 202797863908
+11:37:59.030 [info]  NOS_clOrdId CLORDID2 202797865220
+11:37:59.030 [info]  NOS_clOrdId CLORDID3 202797865440
+11:37:59.030 [info]  NOS_clOrdId CLORDID4 202797865567
+11:37:59.030 [info]  NOS_clOrdId CLORDID5 202797865693
+11:37:59.030 [info]  NOS_clOrdId CLORDID6 202797865807
+11:37:59.030 [info]  NOS_clOrdId CLORDID7 202797865941
+11:37:59.031 [info]  NOS_clOrdId CLORDID8 202797866051
+11:37:59.031 [info]  NOS_clOrdId CLORDID9 202797866164
+11:37:59.031 [info]  NOS_clOrdId CLORDID10 202797866272
+11:37:59.031 [info]  NOS_clOrdId CLORDID11 202797866380
+11:37:59.031 [info]  NOS_clOrdId CLORDID12 202797866554
+11:37:59.031 [info]  NOS_clOrdId CLORDID13 202797866661
+11:37:59.031 [info]  NOS_clOrdId CLORDID14 202797866776
+11:37:59.031 [info]  NOS_clOrdId CLORDID15 202797866937
+11:37:59.032 [info]  NOS_clOrdId CLORDID16 202797867048
+11:37:59.032 [info]  NOS_clOrdId CLORDID17 202797867177
+11:37:59.032 [info]  NOS_clOrdId CLORDID18 202797867293
+11:37:59.032 [info]  NOS_clOrdId CLORDID19 202797867401
+11:37:59.032 [info]  NOS_clOrdId CLORDID20 202797867573
+11:37:59.032 [info]  NOS_clOrdId CLORDID21 202797867683
+11:37:59.032 [info]  NOS_clOrdId CLORDID22 202797867842
+11:37:59.033 [info]  NOS_clOrdId CLORDID23 202797867950
+11:37:59.033 [info]  NOS_clOrdId CLORDID24 202797868071
+11:37:59.033 [info]  NOS_clOrdId CLORDID25 202797868175
+11:37:59.033 [info]  NOS_clOrdId CLORDID26 202797868275
+11:37:59.033 [info]  NOS_clOrdId CLORDID27 202797868479
+11:37:59.033 [info]  NOS_clOrdId CLORDID28 202797868597
+11:37:59.033 [info]  NOS_clOrdId CLORDID29 202797868727
+11:37:59.033 [info]  NOS_clOrdId CLORDID30 202797868832
+11:37:59.034 [info]  NOS_clOrdId CLORDID31 202797868935
+11:37:59.034 [info]  NOS_clOrdId CLORDID32 202797869066
+11:37:59.034 [info]  NOS_clOrdId CLORDID33 202797869269
+11:37:59.034 [info]  NOS_clOrdId CLORDID34 202797869431
+11:37:59.034 [info]  NOS_clOrdId CLORDID35 202797869536
+11:37:59.034 [info]  NOS_clOrdId CLORDID36 202797869638
+11:37:59.034 [info]  NOS_clOrdId CLORDID37 202797869785
+11:37:59.035 [info]  NOS_clOrdId CLORDID38 202797869897
+11:37:59.035 [info]  NOS_clOrdId CLORDID39 202797870002
+11:37:59.035 [info]  NOS_clOrdId CLORDID40 202797870134
+11:37:59.035 [info]  NOS_clOrdId CLORDID41 202797870244
+11:37:59.035 [info]  NOS_clOrdId CLORDID42 202797870443
+11:37:59.035 [info]  NOS_clOrdId CLORDID43 202797870618
+11:37:59.035 [info]  NOS_clOrdId CLORDID44 202797870801
+11:37:59.036 [info]  NOS_clOrdId CLORDID45 202797870961
+11:37:59.036 [info]  NOS_clOrdId CLORDID46 202797871130
+11:37:59.036 [info]  NOS_clOrdId CLORDID47 202797871329
+11:37:59.036 [info]  NOS_clOrdId CLORDID48 202797871476
+11:37:59.036 [info]  NOS_clOrdId CLORDID49 202797871620
+11:37:59.036 [info]  NOS_clOrdId CLORDID50 202797871783
+11:37:59.037 [info]  NOS_clOrdId CLORDID51 202797871942
+11:37:59.037 [info]  NOS_clOrdId CLORDID52 202797872250
+11:37:59.037 [info]  NOS_clOrdId CLORDID53 202797872429
+11:37:59.037 [info]  NOS_clOrdId CLORDID54 202797872613
+11:37:59.037 [info]  NOS_clOrdId CLORDID55 202797872782
+11:37:59.038 [info]  NOS_clOrdId CLORDID56 202797872938
+11:37:59.038 [info]  NOS_clOrdId CLORDID57 202797873231
+11:37:59.038 [info]  NOS_clOrdId CLORDID58 202797873397
+11:37:59.038 [info]  NOS_clOrdId CLORDID59 202797873544
+11:37:59.038 [info]  NOS_clOrdId CLORDID60 202797873646
+11:37:59.038 [info]  NOS_clOrdId CLORDID61 202797873753
+11:37:59.039 [info]  NOS_clOrdId CLORDID62 202797873940
+11:37:59.039 [info]  NOS_clOrdId CLORDID63 202797874042
+11:37:59.039 [info]  NOS_clOrdId CLORDID64 202797874136
+11:37:59.039 [info]  NOS_clOrdId CLORDID65 202797874280
+11:37:59.039 [info]  NOS_clOrdId CLORDID66 202797874498
+11:37:59.039 [info]  NOS_clOrdId CLORDID67 202797874683
+11:37:59.040 [info]  NOS_clOrdId CLORDID68 202797874840
+11:37:59.040 [info]  NOS_clOrdId CLORDID69 202797874989
+11:37:59.040 [info]  NOS_clOrdId CLORDID70 202797875166
+11:37:59.040 [info]  NOS_clOrdId CLORDID71 202797875314
+11:37:59.040 [info]  NOS_clOrdId CLORDID72 202797875483
+11:37:59.040 [info]  NOS_clOrdId CLORDID73 202797875624
+11:37:59.041 [info]  NOS_clOrdId CLORDID74 202797875767
+11:37:59.041 [info]  NOS_clOrdId CLORDID75 202797875932
+11:37:59.041 [info]  NOS_clOrdId CLORDID76 202797876075
+11:37:59.041 [info]  NOS_clOrdId CLORDID77 202797876256
+11:37:59.041 [info]  NOS_clOrdId CLORDID78 202797876406
+11:37:59.041 [info]  NOS_clOrdId CLORDID79 202797876633
+11:37:59.042 [info]  NOS_clOrdId CLORDID80 202797876781
+11:37:59.042 [info]  NOS_clOrdId CLORDID81 202797876922
+11:37:59.042 [info]  NOS_clOrdId CLORDID82 202797877116
+11:37:59.042 [info]  NOS_clOrdId CLORDID83 202797877257
+11:37:59.042 [info]  NOS_clOrdId CLORDID84 202797877461
+11:37:59.042 [info]  NOS_clOrdId CLORDID85 202797877602
+11:37:59.043 [info]  NOS_clOrdId CLORDID86 202797877754
+11:37:59.043 [info]  NOS_clOrdId CLORDID87 202797877927
+11:37:59.043 [info]  NOS_clOrdId CLORDID88 202797878061
+11:37:59.043 [info]  NOS_clOrdId CLORDID89 202797878200
+11:37:59.043 [info]  NOS_clOrdId CLORDID90 202797878369
+11:37:59.043 [info]  NOS_clOrdId CLORDID91 202797878532
+11:37:59.044 [info]  NOS_clOrdId CLORDID92 202797878711
+11:37:59.044 [info]  NOS_clOrdId CLORDID93 202797878983
+11:37:59.044 [info]  NOS_clOrdId CLORDID94 202797879208
+11:37:59.044 [info]  NOS_clOrdId CLORDID95 202797879361
+11:37:59.044 [info]  NOS_clOrdId CLORDID96 202797879512
+11:37:59.045 [info]  NOS_clOrdId CLORDID97 202797879662
+11:37:59.045 [info]  NOS_clOrdId CLORDID98 202797879879
+11:37:59.045 [info]  NOS_clOrdId CLORDID99 202797880068
+11:37:59.045 [info]  Starting forced GC
+11:37:59.123 [info]  Forced GC over duration=78 msecs
+11:37:59.125 [info]  exchange1 INBOUND recovery finished nextExpectedInSeqNum= nextExpectedInSeqNum=1
+11:37:59.125 [info]  exchange1 OUTBOUND recovery finished  nextOutSeqNum=1
+11:37:59.356 [info]  Scheduler.cancelIndividual event Heartbeat for listener HB_WARM_OM2CLT
+11:37:59.628 [info]  Starting forced GC
+11:37:59.677 [info]  Forced GC over duration=49 msecs
+11:37:59.677 [info]  Session exchange1 connect invoked
+11:37:59.678 [info]  Session exchange1Receiver RECEIVE LOOP STARTED
+11:37:59.678 [info]  Session exchange1 attempting to connect 
+11:37:59.678 [info]  exchange1 InternalThreadedDispatcher running, disconnectPause=10
+11:37:59.678 [info]  Session exchange1, found 1 entries for IP address 127.0.0.1
+11:37:59.678 [info]  Session exchange1, no adapter specified for IP address 127.0.0.1, port=10508
+11:37:59.678 [info]  Session change from Disconnected to Listening : FixSocketSession id=exchange1  Upstream, maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=10508, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=CME, targetCompId=1T1234N, fixVersion=Fix4_2, disconnectOnMissedHB=true, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_exchange1DISPATCHER, queue=RingBufferMsgQueue1C1P), logEvents=true, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+11:38:04.027 [info]  Session WARM_OM_2_SRV RECEIVE LOOP FINISHED
+11:38:04.027 [info]  Session WARM_CLIENTSIM RECEIVE LOOP FINISHED
+12:23:06.240 [info]  Session change from Listening to Connected : FixSocketSession id=exchange1  Upstream, maxMsgsPerSecond=0, isServer=true, isMulticastCast=false, hostName=127.0.0.1, port=10508, secHostName=null, secPort=0, localPort=0, nic=null, nio=false, tcpNoDelay=true, soLingerSecs=-1, soDelayMS=0, disLoopback=true, keepAlive=false, senderCompId=CME, targetCompId=1T1234N, fixVersion=Fix4_2, disconnectOnMissedHB=true, new44GapFill=false, recoverFromLowSeqNum=true, disconnectOnSeqGap=true, gapFillAllowed=true, SessionThreadedDispatcher( DISPATCH_exchange1DISPATCHER, queue=RingBufferMsgQueue1C1P), logEvents=true, logStats=true, chainSession=N/A  nextOutSeqNo=1, nextInSeqNo=1, state=LoggedOutFixState
+12:23:06.241 [info]  Session OutDispatcher DISPATCH_exchange1DISPATCHER : CONNECTED
+12:23:06.243 [ERROR] [ASN210] Error receiving message :  exchange1 Unable to find FIX header in data read, len=64, idx=18, offset=18, tag=0, offsetWithinMsg=0 @   $'             Ò  @â pwd                                 
